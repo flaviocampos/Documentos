@@ -1,8 +1,0 @@
-Entity ; Infra.Data 
-Identity
-AdminLTE ; UI
-MvcSiteMapProvider.MVC5 ; UI
-Dapper ; Infra.Data
-Install-Package Ninject ; CrossCutting.IoC
-Install-Package CommonServiceLocator ; Infra.Data, CrossCutting.IoC
-Install-Package CommonServiceLocator.NinjectAdapter.Unofficial ; CrossCutting.IoC
